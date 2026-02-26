@@ -11,7 +11,7 @@ Funcionalidades:
 - ✔ Subtração
 - ✔ Multiplicação
 - ✔ Divisão
-- ✔ Tratamento de erro (ex: divisão por zero)
+
 
 
 Tecnologias:
