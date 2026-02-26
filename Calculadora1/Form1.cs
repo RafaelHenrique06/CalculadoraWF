@@ -24,7 +24,6 @@ namespace Calculadora1
         private void btnZero_Click(object sender, EventArgs e)
         {
             txtResultado.Text += "0";
-            txtResultado.Text = "";
         }
 
         private void btnUm_Click(object sender, EventArgs e)
